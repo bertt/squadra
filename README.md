@@ -14,4 +14,6 @@ Android:
 
 iOS:
 
+<img src="https://build.appcenter.ms/v0.1/apps/39abb8e9-2042-46f1-84bb-db2eab7e0bdc/branches/master/badge"/>
+
 
