@@ -6,7 +6,7 @@ View site: https://bertt.github.io/squadra/
 
 UWP build:
 
-<img src = "https://build.appcenter.ms/v0.1/apps/cf31ea78-954d-4e04-b244-e7c7771b9f3f/branches/master/badge"></img>
+<img src = "https://build.appcenter.ms/v0.1/apps/b5cdf83b-7b1d-420d-8213-7d2a642c6488/branches/master/badge"></img>
 
 Android:
 
