@@ -10,7 +10,7 @@ UWP build:
 
 Android:
 
-<img src= "https://build.appcenter.ms/v0.1/apps/fa27e1bd-b67a-4078-b524-4d3e53d3e395/branches/master/badge"/>
+<img src= "https://build.appcenter.ms/v0.1/apps/3f027fdd-9b21-4da0-8972-36477a9221f3/branches/master/badge"/>
 
 iOS:
 
